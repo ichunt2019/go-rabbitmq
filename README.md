@@ -1,4 +1,4 @@
-go get github.com/ichunt2019/go-msgserver
+## go get github.com/ichunt2019/go-rabbitmq
 
 **发送消息**
 
