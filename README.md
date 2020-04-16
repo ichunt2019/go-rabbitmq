@@ -1,3 +1,5 @@
+go get github.com/ichunt2019/go-msgserver
+
 **发送消息**
 
 ```
